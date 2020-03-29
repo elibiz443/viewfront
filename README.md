@@ -1,24 +1,7 @@
-# README
+# Viewfront
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is frontview template, that gives the front end look to the rails 6 web app.
 
-Things you may want to cover:
+It provides the assets contents i.e folders & files(images[favicon.png & logo.png], stylesheets[css/style.css]), javascript content i.e (javascript/packs/main.js) & the views contents folders & Files ([shared/_header.html.erb || _footer.html.erb || _alerts.html.erb],[views/index.html.erb],[layouts/application.html.erb]).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It also has sample images.
